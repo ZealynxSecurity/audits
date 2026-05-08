@@ -12,6 +12,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 
 | Date | Audit | Tags | C | H | M | L | I | Report |
 |------|-------|------|--:|--:|--:|--:|--:|--------|
+| 2026‑04 | Dripster | Vault · Solidity | 0 | 0 | 2 | 7 | 8 | [PDF](web3/2026-04-zealynx-dripster.pdf) |
 | 2026‑02 | YadaCoin | Bridge · Solidity | 3 | 2 | 4 | 16 | 3 | [PDF](web3/2026-02-zealynx-yadacoin.pdf) |
 | 2026‑01 | Fair Casino (Solana) | Game · Solana | 0 | 1 | 1 | 3 | 0 | [PDF](web3/2026-01-zealynx-fair-casino-solana.pdf) |
 | 2025‑12 | Nexalo | Token · Lottery · Solidity | 3 | 5 | 10 | 4 | 0 | [PDF](web3/2025-12-zealynx-nexalo.pdf) |
@@ -42,6 +43,7 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 | Date | Audit | Tags | C | H | M | L | I | Report |
 |------|-------|------|--:|--:|--:|--:|--:|--------|
+| 2026‑04 | Dripster | Backend pentest · Vault · TypeScript | 0 | 1 | 4 | 11 | 5 | [PDF](web2/2026-04-zealynx-dripster-offchain.pdf) |
 | 2026‑01 | Fair Casino (Swap) | Swap · TypeScript | 0 | 2 | 0 | 0 | 0 | [PDF](web2/2026-01-zealynx-fair-casino-swap.pdf) |
 | 2026‑01 | Fair Casino (Core) | Game · TypeScript | 0 | 4 | 6 | 3 | 0 | [PDF](web2/2026-01-zealynx-fair-casino-core.pdf) |
 | 2026‑01 | Novaswap | Blackbox pentest · TypeScript | 0 | 0 | 1 | 4 | 4 | [PDF](web2/2026-01-zealynx-novaswap.pdf) |
@@ -53,7 +55,7 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 **Severity legend:** **C**ritical · **H**igh · **M**edium · **L**ow · **I**nformational. Co-audit attribution shown in tags.
 
-29 audits with public deliverables (21 Web3 + 8 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
+31 audits with public deliverables (22 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
 
 ---
 
