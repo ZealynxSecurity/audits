@@ -28,7 +28,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 | 2024‑10 | Badger DAO | Vault · Yield · Solidity | 0 | 0 | 1 | 3 | 2 | [PDF](web3/2024-10-zealynx-badger-dao.pdf) |
 | 2024‑09 | Monadex | DEX · Raffle · Solidity · Monad | 2 | 2 | 6 | 6 | 0 | [PDF](web3/2024-09-zealynx-monadex.pdf) |
 | 2024‑07 | Lido Finance | Staking · LST · Solidity · Co-audit · Shieldify | 0 | 0 | 0 | 2 | 0 | [PDF](web3/2024-07-zealynx-shieldify-lido.pdf) |
-| 2024‑06 | Glif | Liquidity Mining · Solidity |  |  |  |  |  | [Pre-audit report](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP/blob/main/PreAudit-Report.md) |
+| 2024‑06 | Glif | Liquidity Mining · Solidity |  |  |  |  |  | [PDF](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP/blob/main/PreAudit-Report.md) |
 | 2024‑06 | Ribbon | Vault · HealthFi · Solidity | 0 | 0 | 3 | 4 | 0 | [PDF](web3/2024-06-zealynx-ribbon.pdf) |
 | 2024‑05 | Wedefin | Index Fund · Solidity | 0 | 3 | 0 | 8 | 0 | [PDF](web3/2024-05-zealynx-wedefin.pdf) |
 | 2024‑04 | Aurora (NEAR Bridge Connector) | Bridge · NEAR · Rust · Co-audit · AuditOne | 0 | 0 | 1 | 4 | 8 | [PDF](web3/2024-04-zealynx-auditone-aurora-near-connector.pdf) |
