@@ -12,6 +12,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 
 | Date | Audit | Tags | C | H | M | L | I | Report |
 |------|-------|------|--:|--:|--:|--:|--:|--------|
+| 2026‑09 | Holdam (Escrow & Arbitration) | Escrow · Arbitration · Solidity | 1 | 12 | 10 | 7 | 2 | [PDF](web3/2026-09-zealynx-holdam-escrow.pdf) |
 | 2026‑09 | Yieldcoin v2 | Vault · Crosschain · Solidity | 1 | 1 | 6 | 3 | 0 | [PDF](web3/2026-09-zealynx-yieldcoin-v2.pdf) |
 | 2026‑04 | Dripster | Vault · Solidity | 0 | 0 | 2 | 7 | 8 | [PDF](web3/2026-04-zealynx-dripster.pdf) |
 | 2026‑02 | YadaCoin | Bridge · Solidity | 3 | 2 | 4 | 16 | 3 | [PDF](web3/2026-02-zealynx-yadacoin.pdf) |
@@ -56,7 +57,7 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 **Severity legend:** **C**ritical · **H**igh · **M**edium · **L**ow · **I**nformational. Co-audit attribution shown in tags.
 
-32 audits with public deliverables (23 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
+33 audits with public deliverables (24 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
 
 ---
 
