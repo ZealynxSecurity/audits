@@ -2,7 +2,7 @@
 
 Public Web3 audit reports (onchain and offchain).
 
-[zealynx.io](https://zealynx.io) · [Audit Grants](https://grants.zealynx.io) · [Academy](https://academy.zealynx.io) · [Krait](https://krait.zealynx.io)
+[zealynx.io](https://zealynx.io) · [All audits](https://zealynx.io/audits) · [Audit Grants](https://grants.zealynx.io) · [Academy](https://academy.zealynx.io) · [Krait](https://krait.zealynx.io)
 
 ---
 
@@ -12,6 +12,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 
 | Date | Audit | Tags | C | H | M | L | I | Report |
 |------|-------|------|--:|--:|--:|--:|--:|--------|
+| 2026‑09 | Holdam (Escrow & Arbitration) | Escrow · Arbitration · Solidity | 1 | 12 | 10 | 7 | 2 | [PDF](web3/2026-09-zealynx-holdam-escrow.pdf) |
 | 2026‑09 | Yieldcoin v2 | Vault · Crosschain · Solidity | 1 | 1 | 6 | 3 | 0 | [PDF](web3/2026-09-zealynx-yieldcoin-v2.pdf) |
 | 2026‑04 | Dripster | Vault · Solidity | 0 | 0 | 2 | 7 | 8 | [PDF](web3/2026-04-zealynx-dripster.pdf) |
 | 2026‑02 | YadaCoin | Bridge · Solidity | 3 | 2 | 4 | 16 | 3 | [PDF](web3/2026-02-zealynx-yadacoin.pdf) |
@@ -29,7 +30,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 | 2024‑10 | Badger DAO | Vault · Yield · Solidity | 0 | 0 | 1 | 3 | 2 | [PDF](web3/2024-10-zealynx-badger-dao.pdf) |
 | 2024‑09 | Monadex | DEX · Raffle · Solidity · Monad | 2 | 2 | 6 | 6 | 0 | [PDF](web3/2024-09-zealynx-monadex.pdf) |
 | 2024‑07 | Lido Finance | Staking · LST · Solidity · Co-audit · Shieldify | 0 | 0 | 0 | 2 | 0 | [PDF](web3/2024-07-zealynx-shieldify-lido.pdf) |
-| 2024‑06 | Glif | Liquidity Mining · Solidity |  |  |  |  |  | [PDF](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP/blob/main/PreAudit-Report.md) |
+| 2024‑06 | Glif | Liquidity Mining · Solidity | — | — | — | — | — | [PDF](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP/blob/main/PreAudit-Report.md) |
 | 2024‑06 | Ribbon | Vault · HealthFi · Solidity | 0 | 0 | 3 | 4 | 0 | [PDF](web3/2024-06-zealynx-ribbon.pdf) |
 | 2024‑05 | Wedefin | Index Fund · Solidity | 0 | 3 | 0 | 8 | 0 | [PDF](web3/2024-05-zealynx-wedefin.pdf) |
 | 2024‑04 | Aurora (NEAR Bridge Connector) | Bridge · NEAR · Rust · Co-audit · AuditOne | 0 | 0 | 1 | 4 | 8 | [PDF](web3/2024-04-zealynx-auditone-aurora-near-connector.pdf) |
@@ -56,7 +57,7 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 **Severity legend:** **C**ritical · **H**igh · **M**edium · **L**ow · **I**nformational. Co-audit attribution shown in tags.
 
-32 audits with public deliverables (23 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
+33 audits with public deliverables (24 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
 
 ---
 
@@ -66,7 +67,9 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 | Date | Project | Via | Lang | Duration | Report |
 |------|---------|-----|------|----------|--------|
+| 2026‑08 | Pear (Vault Service) | [Shieldify](https://shieldify.org) | TypeScript | — | _In preparation_ |
 | 2026‑01 | Spicenet | [Pashov Audit Group](https://www.pashov.net/) | TypeScript | 6 days | _Not public_ |
+| 2025‑11 | Sodax | [Sherlock](https://sherlock.xyz) | Rust | — | _Not public_ |
 | 2025‑08 | TokenTable (Batched Merkle) | [Codespect](https://www.codespect.net/) | Solidity | 2 days | [PDF](https://github.com/CODESPECT-security/audit-reports/blob/main/030_CODESPECT_TOKENTABLE_BATCHED_MERKLE.pdf) |
 | 2025‑08 | Elytra Protocol | [Pashov Audit Group](https://www.pashov.net/) | Solidity | 8 days | _Not public_ |
 | 2025‑07 | Neverland Protocol | [Composable Security](https://composable-security.com/) | Solidity | 10 days | [PDF](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_08_Neverland.pdf) |
