@@ -14,6 +14,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 |------|-------|------|--:|--:|--:|--:|--:|--------|
 | 2026‑09 | Holdam (Escrow & Arbitration) | Escrow · Arbitration · Solidity | 1 | 12 | 10 | 7 | 2 | [PDF](web3/2026-09-zealynx-holdam-escrow.pdf) |
 | 2026‑09 | Yieldcoin v2 | Vault · Crosschain · Solidity | 1 | 1 | 6 | 3 | 0 | [PDF](web3/2026-09-zealynx-yieldcoin-v2.pdf) |
+| 2026‑08 | Plakxio (Founder Sprint) | NFT · Marketplace · Solidity | 0 | 2 | 6 | 8 | 0 | [PDF](web3/2026-08-zealynx-plakxio-founder-sprint.pdf) |
 | 2026‑04 | Dripster | Vault · Solidity | 0 | 0 | 2 | 7 | 8 | [PDF](web3/2026-04-zealynx-dripster.pdf) |
 | 2026‑02 | YadaCoin | Bridge · Solidity | 3 | 2 | 4 | 16 | 3 | [PDF](web3/2026-02-zealynx-yadacoin.pdf) |
 | 2026‑01 | Fair Casino (Solana) | Game · Solana | 0 | 1 | 1 | 3 | 0 | [PDF](web3/2026-01-zealynx-fair-casino-solana.pdf) |
@@ -57,7 +58,7 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 **Severity legend:** **C**ritical · **H**igh · **M**edium · **L**ow · **I**nformational. Co-audit attribution shown in tags.
 
-33 audits with public deliverables (24 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
+34 audits with public deliverables (25 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
 
 ---
 
@@ -67,6 +68,8 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 | Date | Project | Via | Lang | Duration | Report |
 |------|---------|-----|------|----------|--------|
+| 2026‑09 | Rain (USDR) | [Composable Security](https://composable-security.com/) | Solidity | 3 weeks | _In progress_ |
+| 2026‑08 | Rain (Vaults) | [Composable Security](https://composable-security.com/) | Solidity | — | _In preparation_ |
 | 2026‑08 | Pear (Vault Service) | [Shieldify](https://shieldify.org) | TypeScript | — | _In preparation_ |
 | 2026‑01 | Spicenet | [Pashov Audit Group](https://www.pashov.net/) | TypeScript | 6 days | _Not public_ |
 | 2025‑11 | Sodax | [Sherlock](https://sherlock.xyz) | Rust | — | _Not public_ |
