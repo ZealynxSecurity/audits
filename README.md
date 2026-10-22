@@ -12,6 +12,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 
 | Date | Audit | Tags | C | H | M | L | I | Report |
 |------|-------|------|--:|--:|--:|--:|--:|--------|
+| 2026‑10 | Plakxio (Full Audit and Generation D Mitigation Review) | NFT · Marketplace · Solidity | 0 | 0 | 12 | 11 | 1 | [PDF](web3/2026-10-zealynx-plakxio-generation-d-mitigation-review.pdf) |
 | 2026‑09 | Yieldcoin v2 | Vault · Crosschain · Solidity | 1 | 1 | 6 | 3 | 0 | [PDF](web3/2026-09-zealynx-yieldcoin-v2.pdf) |
 | 2026‑08 | Plakxio (Founder Sprint) | NFT · Marketplace · Solidity | 0 | 2 | 6 | 8 | 0 | [PDF](web3/2026-08-zealynx-plakxio-founder-sprint.pdf) |
 | 2026‑04 | Dripster | Vault · Solidity | 0 | 0 | 2 | 7 | 8 | [PDF](web3/2026-04-zealynx-dripster.pdf) |
