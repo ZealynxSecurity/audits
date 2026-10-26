@@ -12,6 +12,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 
 | Date | Audit | Tags | C | H | M | L | I | Report |
 |------|-------|------|--:|--:|--:|--:|--:|--------|
+| 2026-10 | Coffer (ETH Bonds and Marketplace) | Staking · ETH bonds · Marketplace · Solidity | 0 | 0 | 2 | 5 | 4 | [PDF](web3/2026-10-zealynx-coffer.pdf) |
 | 2026‑10 | Plakxio (Full Audit and Generation D Mitigation Review) | NFT · Marketplace · Solidity | 0 | 0 | 12 | 11 | 1 | [PDF](web3/2026-10-zealynx-plakxio-generation-d-mitigation-review.pdf) |
 | 2026‑09 | Yieldcoin v2 | Vault · Crosschain · Solidity | 1 | 1 | 6 | 3 | 0 | [PDF](web3/2026-09-zealynx-yieldcoin-v2.pdf) |
 | 2026‑08 | Plakxio (Founder Sprint) | NFT · Marketplace · Solidity | 0 | 2 | 6 | 8 | 0 | [PDF](web3/2026-08-zealynx-plakxio-founder-sprint.pdf) |
@@ -58,7 +59,7 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 **Severity legend:** **C**ritical · **H**igh · **M**edium · **L**ow · **I**nformational. Co-audit attribution shown in tags.
 
-33 audits with public deliverables (24 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
+34 audits with public deliverables (25 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
 
 ---
 
