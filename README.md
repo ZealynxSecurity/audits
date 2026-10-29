@@ -60,7 +60,7 @@ Off-chain pentesting and TypeScript application reviews. APIs, web games, fronte
 
 **Severity legend:** **C**ritical · **H**igh · **M**edium · **L**ow · **I**nformational. Co-audit attribution shown in tags.
 
-34 audits with public deliverables (25 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
+36 audits with public deliverables (27 Web3 + 9 Web2). Additional engagements with reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
 
 ---
 
