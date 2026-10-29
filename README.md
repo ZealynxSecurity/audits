@@ -12,6 +12,7 @@ Smart contract and on-chain code reviews. Solidity, Solana, Sway, Rust.
 
 | Date | Audit | Tags | C | H | M | L | I | Report |
 |------|-------|------|--:|--:|--:|--:|--:|--------|
+| 2026-10 | Mystic Finance (Octarine RFQ Founder Security Sprint) | RWA · RFQ · Oracles · Solidity | 0 | 0 | 4 | 11 | 0 | [PDF](web3/2026-10-zealynx-mystic-octarine-rfq.pdf) |
 | 2026-10 | Coffer (ETH Bonds and Marketplace) | Staking · ETH bonds · Marketplace · Solidity | 0 | 0 | 2 | 5 | 4 | [PDF](web3/2026-10-zealynx-coffer.pdf) |
 | 2026‑10 | Plakxio (Full Audit and Generation D Mitigation Review) | NFT · Marketplace · Solidity | 0 | 0 | 12 | 11 | 1 | [PDF](web3/2026-10-zealynx-plakxio-generation-d-mitigation-review.pdf) |
 | 2026‑09 | Yieldcoin v2 | Vault · Crosschain · Solidity | 1 | 1 | 6 | 3 | 0 | [PDF](web3/2026-09-zealynx-yieldcoin-v2.pdf) |
